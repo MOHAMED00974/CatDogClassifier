@@ -10,7 +10,10 @@ This is a simple project where I train a CNN model to classify a given image as 
 # requirements
 Python 
  
-# How to use it? 
+# How to use it?
+```
+git clone https://github.com/MOHAMED00974/CatDogClassifier
+```
 run
 ``` 
 pip install requirements.txt
